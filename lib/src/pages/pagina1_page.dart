@@ -30,6 +30,7 @@ class Pagina1Page extends StatelessWidget {
                     CupertinoPageRoute(builder: (context) => Pagina1Page()));
               },
             ),
+            // Un cambio
           ),
         ],
       ),
