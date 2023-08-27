@@ -1,0 +1,8 @@
+{
+    "diffEditor.wordWrap": "off",
+    "editor.wordWrapColumn": 1000,
+    "editor.wrappingIndent": "none",
+    "editor.wrappingStrategy": "advanced",
+    "workbench.editor.wrapTabs": false,
+    "html.format.wrapLineLength": 1000
+}
